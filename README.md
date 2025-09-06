@@ -32,8 +32,6 @@ Sistema de controle financeiro pessoal com dashboard interativo, autenticação 
 ### 🔹 [ERP](https://github.com/alexsilva/echo-erp)  
 ERP modular com NestJS e Next.js, focado em escalabilidade e arquitetura limpa.
 
-### 🔹 [DevTasks](https://github.com/alexsilva/devtasks)  
-Aplicativo de gerenciamento de tarefas com React, TypeScript e integração com API REST.
 
 ---
 
