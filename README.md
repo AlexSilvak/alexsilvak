@@ -44,7 +44,7 @@ ERP modular com NestJS e Next.js, focado em escalabilidade e arquitetura limpa.
 
 ## 📫 Onde me encontrar
 
-- 🌐 [Portfólio](https://alexsilva.dev)  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-silva-64a87736/)  
 
 
