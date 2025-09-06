@@ -11,7 +11,7 @@
 - DevOps: Docker, GitHub Actions, Nginx
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexSilvak&show_icons=true&theme=radical)
 
 ## 📌 Projetos em Destaque
 - [ERP Echo](https://github.com/seu-usuario/erp-echo) — Sistema ERP modular com NestJS e Next.js
