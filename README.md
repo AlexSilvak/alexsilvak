@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou [Alex Silva]
 
 💻 Desenvolvedor FullStack | TypeScript, React, Node.js, NestJS  
 🚀 Apaixonado por construir soluções escaláveis e interfaces intuitivas  
