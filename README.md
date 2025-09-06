@@ -10,7 +10,7 @@
 
 - **Frontend**: React, Next.js, TailwindCSS, Vite  
 - **Backend**: Node.js, Express, NestJS  
-- **Banco de Dados**: PostgreSQL, MongoDB  
+- **Banco de Dados**: PostgreSQL, MongoDB,Oracle,SQL Server,MySQL.  
 - **DevOps**: Docker, GitHub Actions, Nginx  
 - **Outros**: TypeScript, Prisma, JWT, REST APIs
 
