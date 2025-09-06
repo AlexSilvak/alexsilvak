@@ -47,7 +47,7 @@ Aplicativo de gerenciamento de tarefas com React, TypeScript e integração com 
 ## 📫 Onde me encontrar
 
 - 🌐 [Portfólio](https://alexsilva.dev)  
-- 💼 [LinkedIn](https://linkedin.com/in/alexsilva)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-silva-64a87736/)  
 - 🐦 [Twitter](https://twitter.com/alexsilva_dev)
 
 ---
