@@ -32,14 +32,6 @@ Sistema de controle financeiro pessoal com dashboard interativo, autenticação 
 ### 🔹 [ERP](https://github.com/alexsilva/echo-erp)  
 ERP modular com NestJS e Next.js, focado em escalabilidade e arquitetura limpa.
 
-
----
-
-## 📚 Artigos e Conteúdo Técnico
-
-- [Como escalar uma API REST com NestJS](https://dev.to/alexsilva/nestjs-api-escalavel)
-- [Melhores práticas com React e TypeScript](https://medium.com/@alexsilva/react-ts-best-practices)
-
 ---
 
 ## 📫 Onde me encontrar
