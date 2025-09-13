@@ -29,7 +29,7 @@
 ### 🔹 [FinBank][(https://github.com/alexsilva/finbank)  ](https://github.com/AlexSilvak/finbank)
 Sistema de controle financeiro pessoal com dashboard interativo, autenticação JWT e gráficos dinâmicos.
 
-### 🔹 [ERP](https://github.com/alexsilva/echo-erp)  
+### 🔹 [ERP][(https://github.com/alexsilva/echo-erp)](https://github.com/AlexSilvak/erp)  
 ERP modular com NestJS e Next.js, focado em escalabilidade e arquitetura limpa.
 
 ---
