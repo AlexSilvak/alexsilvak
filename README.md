@@ -26,7 +26,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 [FinBank](https://github.com/alexsilva/finbank)  
+### 🔹 [FinBank][(https://github.com/alexsilva/finbank)  ](https://github.com/AlexSilvak/finbank)
 Sistema de controle financeiro pessoal com dashboard interativo, autenticação JWT e gráficos dinâmicos.
 
 ### 🔹 [ERP](https://github.com/alexsilva/echo-erp)  
