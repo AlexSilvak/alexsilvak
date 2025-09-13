@@ -32,6 +32,8 @@ Sistema de controle financeiro pessoal com dashboard interativo, autenticação 
 ### 🔹 [ERP][(https://github.com/alexsilva/echo-erp)](https://github.com/AlexSilvak/erp)  
 ERP modular com NestJS e Next.js, focado em escalabilidade e arquitetura limpa.
 
+### 🔹 [localeCEP][(https://github.com/alexsilva/echo-erp)](https://github.com/AlexSilvak/erp) 
+Localizador de Endereços por CEP (Oracle APEX)
 ---
 
 ## 📫 Onde me encontrar
