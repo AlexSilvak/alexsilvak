@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Alex Silva
 
-💻 Desenvolvedor FullStack | React, Node.js, TypeScript  
+💻 Desenvolvedor FullStack | React, Node.js, TypeScript , SQL 
 🚀 Criando soluções escaláveis e interfaces modernas  
 🎯 Foco em performance, acessibilidade e boas práticas
 
